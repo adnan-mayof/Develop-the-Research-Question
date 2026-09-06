@@ -1,5 +1,9 @@
 # Step 2 — Develop the Research Question
 
+[← Previous Step: Identify a Research Gap](https://github.com/adnan-mayof/Identify-a-Research-Gap/blob/main/README.md)
+
+---
+
 ## 👩‍🔬 Story 2 — “Maya Narrows It Down”
 
 Maya has finished comparing the previous reviews.
@@ -66,7 +70,7 @@ Maya nods.
 
 ---
 
-# Why Use a Question Framework?
+# 1. Why Use a Question Framework?
 
 Once the research gap has been identified, formulate a **focused research question**.
 
@@ -88,11 +92,11 @@ Depending on the review, these elements may include:
 
 The important point is that **different research questions require different structures**.
 
-Do not force every research question into PICO.
+> **Do not force every research question into PICO.**
 
 ---
 
-# PICO
+# 2. PICO
 
 Maya's question is asking whether an **intervention produces an effect**. This makes PICO a natural framework to consider.
 
@@ -123,7 +127,7 @@ But Maya has another question.
 
 ---
 
-# PICOS
+# 3. PICOS
 
 Use **PICOS** when **study design is an important part of the eligibility criteria**.
 
@@ -145,7 +149,7 @@ Use **PICOS** when **study design is an important part of the eligibility criter
 
 ---
 
-# PICOT
+# 4. PICOT
 
 **Maya:** “What if the length of the intervention is important?”
 
@@ -171,7 +175,7 @@ Use **PICOT** when the **timing or duration** of an intervention is important.
 
 ---
 
-# PECO
+# 5. PECO
 
 Maya begins to wonder whether every research question involves an intervention.
 
@@ -198,7 +202,7 @@ Use **PECO** when the question concerns an **exposure, factor, or condition** ra
 
 ---
 
-# SPIDER
+# 6. SPIDER
 
 Maya thinks about another possibility.
 
@@ -226,7 +230,7 @@ Use **SPIDER** when the review includes **qualitative, mixed-methods, or experie
 
 ---
 
-# PCC
+# 7. PCC
 
 **Maya:** “What if I don't want to estimate an effect at all? What if I want to understand what evidence exists across a broad topic?”
 
@@ -250,7 +254,7 @@ Use **PCC** when conducting a **scoping review**, particularly when the objectiv
 
 ---
 
-# PICo
+# 8. PICo
 
 Maya has one more question.
 
@@ -272,7 +276,7 @@ Use **PICo** for qualitative questions, particularly when examining **experience
 
 ---
 
-# Choosing the Appropriate Framework
+# 9. Choosing the Appropriate Framework
 
 Maya now has a clearer picture.
 
@@ -306,7 +310,7 @@ Scoping / Mapping Evidence?
 
 ---
 
-# An Important Principle
+# 10. An Important Principle
 
 Maya reviews her notes one more time.
 
@@ -326,7 +330,7 @@ This question does not need to mechanically list every component as separate phr
 
 ---
 
-# Maya Formulates Her Research Question
+# 11. Maya Formulates Her Research Question
 
 Maya returns to her original question.
 
@@ -356,117 +360,177 @@ She is ready for the next step.
 
 # 📝 Assessment
 
-### Question 1
+## Question 1
 
-Why does Maya need to narrow her original research question?
+**Why does Maya need to narrow her original research question?**
 
-**A.** Because systematic reviews cannot study AI
-**B.** Because a broad question does not clearly define what evidence should be included
-**C.** Because PRISMA requires every question to use PICO
-**D.** Because she needs to choose her database before writing the question
+**A.** Because systematic reviews cannot study AI.
 
-### Question 2
+**B.** Because a broad question does not clearly define what evidence should be included.
 
-Which set of elements best represents the PICO framework?
+**C.** Because PRISMA requires every question to use PICO.
 
-**A.** Population, Intervention, Comparison, Outcome
-**B.** Population, Interest, Context, Outcome
-**C.** Participants, Intervention, Context, Observation
-**D.** Population, Intervention, Design, Time
+**D.** Because she needs to choose her database before writing the question.
 
-### Question 3
+---
 
-When is PICO most appropriate?
+## Question 2
 
-**A.** When the review focuses primarily on participants' experiences
-**B.** When the goal is to map the breadth of evidence
-**C.** When the question asks whether an intervention produces an effect
-**D.** When the review only includes qualitative studies
+**Which set of elements best represents the PICO framework?**
 
-### Question 4
+**A.** Population, Intervention, Comparison, Outcome.
 
-Why might Maya use PICOS instead of PICO?
+**B.** Population, Interest, Context, Outcome.
 
-**A.** Because she wants to add a context to her question
-**B.** Because study design is an important part of her eligibility criteria
-**C.** Because she is conducting a scoping review
-**D.** Because she is studying participants' experiences
+**C.** Participants, Intervention, Context, Observation.
 
-### Question 5
+**D.** Population, Intervention, Design, Time.
 
-What does the **T** in PICOT represent?
+---
 
-**A.** Theory
-**B.** Technology
-**C.** Time
-**D.** Treatment
+## Question 3
 
-### Question 6
+**When is PICO most appropriate?**
 
-When would PECO be more appropriate than PICO?
+**A.** When the review focuses primarily on participants' experiences.
 
-**A.** When the question concerns an exposure or factor rather than an intervention
-**B.** When study design is the main focus
-**C.** When the review examines qualitative experiences
-**D.** When the purpose is to map evidence in a scoping review
+**B.** When the goal is to map the breadth of evidence.
 
-### Question 7
+**C.** When the question asks whether an intervention produces an effect.
 
-Which framework is particularly appropriate for qualitative or experience-focused research?
+**D.** When the review only includes qualitative studies.
 
-**A.** PICO
-**B.** PICOT
-**C.** SPIDER
-**D.** PICOS
+---
 
-### Question 8
+## Question 4
 
-What is PCC particularly useful for?
+**Why might Maya use PICOS instead of PICO?**
 
-**A.** Estimating the effect of an intervention
-**B.** Mapping the breadth and characteristics of evidence in a scoping review
-**C.** Identifying eligible experimental study designs
-**D.** Measuring intervention duration
+**A.** Because she wants to add a context to her question.
 
-### Question 9
+**B.** Because study design is an important part of her eligibility criteria.
 
-Maya wants to understand how university students experience using generative AI for learning. Which framework would be most appropriate?
+**C.** Because she is conducting a scoping review.
 
-**A.** PICOT
-**B.** PECO
-**C.** PICo
-**D.** PICOS
+**D.** Because she is studying participants' experiences.
 
-### Question 10
+---
 
-What is the most important principle when choosing a question framework?
+## Question 5
 
-**A.** Every systematic review must use PICO
-**B.** The framework should be selected based on the type of question and evidence being synthesized
-**C.** The framework must determine the final wording of the research question
-**D.** The framework should be chosen before identifying the research gap
+**What does the T in PICOT represent?**
 
-### Question 11
+**A.** Theory.
 
-Does every component of a framework have to appear explicitly in the final research question?
+**B.** Technology.
 
-**A.** Yes, every component must appear word-for-word
-**B.** Yes, because PRISMA requires it
-**C.** No, the framework is a tool for structuring the question
-**D.** No, because frameworks are only used during data extraction
+**C.** Time.
 
-### Question 12
+**D.** Treatment.
 
-Which question best reflects Maya's final research direction?
+---
+
+## Question 6
+
+**When would PECO be more appropriate than PICO?**
+
+**A.** When the question concerns an exposure or factor rather than an intervention.
+
+**B.** When study design is the main focus.
+
+**C.** When the review examines qualitative experiences.
+
+**D.** When the purpose is to map evidence in a scoping review.
+
+---
+
+## Question 7
+
+**Which framework is particularly appropriate for qualitative or experience-focused research?**
+
+**A.** PICO.
+
+**B.** PICOT.
+
+**C.** SPIDER.
+
+**D.** PICOS.
+
+---
+
+## Question 8
+
+**What is PCC particularly useful for?**
+
+**A.** Estimating the effect of an intervention.
+
+**B.** Mapping the breadth and characteristics of evidence in a scoping review.
+
+**C.** Identifying eligible experimental study designs.
+
+**D.** Measuring intervention duration.
+
+---
+
+## Question 9
+
+**Maya wants to understand how university students experience using generative AI for learning. Which framework would be most appropriate?**
+
+**A.** PICOT.
+
+**B.** PECO.
+
+**C.** PICo.
+
+**D.** PICOS.
+
+---
+
+## Question 10
+
+**What is the most important principle when choosing a question framework?**
+
+**A.** Every systematic review must use PICO.
+
+**B.** The framework should be selected based on the type of question and evidence being synthesized.
+
+**C.** The framework must determine the final wording of the research question.
+
+**D.** The framework should be chosen before identifying the research gap.
+
+---
+
+## Question 11
+
+**Does every component of a framework have to appear explicitly in the final research question?**
+
+**A.** Yes, every component must appear word-for-word.
+
+**B.** Yes, because PRISMA requires it.
+
+**C.** No, the framework is a tool for structuring the question.
+
+**D.** No, because frameworks are only used during data extraction.
+
+---
+
+## Question 12
+
+**Which question best reflects Maya's final research direction?**
 
 **A.** Does AI help students?
+
 **B.** Is AI popular in education?
+
 **C.** What is the effect of AI-powered learning technologies on student learning outcomes, and which characteristics explain variation in these effects?
+
 **D.** How many universities use AI?
 
-### Question 13 — Final Assessment
+---
 
-Which statement best explains how Maya developed her research question?
+## Question 13
+
+**Which statement best explains how Maya developed her research question?**
 
 **A.** She started with PICO and then searched for a research gap.
 
@@ -478,20 +542,38 @@ Which statement best explains how Maya developed her research question?
 
 ---
 
-## ✅ Answer Key
+# ✅ Answer Key
 
 | Question | Answer |
-| -------- | ------ |
-| 1        | **B**  |
-| 2        | **A**  |
-| 3        | **C**  |
-| 4        | **B**  |
-| 5        | **C**  |
-| 6        | **A**  |
-| 7        | **C**  |
-| 8        | **B**  |
-| 9        | **C**  |
-| 10       | **B**  |
-| 11       | **C**  |
-| 12       | **C**  |
-| 13       | **B**  |
+| -------: | :----: |
+|        1 |  **B** |
+|        2 |  **A** |
+|        3 |  **C** |
+|        4 |  **B** |
+|        5 |  **C** |
+|        6 |  **A** |
+|        7 |  **C** |
+|        8 |  **B** |
+|        9 |  **C** |
+|       10 |  **B** |
+|       11 |  **C** |
+|       12 |  **C** |
+|       13 |  **B** |
+
+---
+
+# 🎓 Step 2 Complete
+
+Maya has moved from a **broad research idea** to a **focused research question**.
+
+She now understands that:
+
+> **The research question comes first. The framework helps organize it.**
+
+She is ready for:
+
+> **Step 3 — Develop Search Terms From PICO/PICOS**
+
+---
+
+[← Previous Step: Identify a Research Gap](../step-1-identify-a-research-gap/) | [Next Step: Develop Search Terms →](../step-3-develop-search-terms/)
