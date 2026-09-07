@@ -578,5 +578,5 @@ She is ready for:
 
 ### Previous Step
 
-**[← Step 1 —  Identify a Research Gap](https://github.com/adnan-mayof/Identify-a-Research-Gap/blob/main/README.md)**
+> **[← Step 1 —  Identify a Research Gap](https://github.com/adnan-mayof/Identify-a-Research-Gap/blob/main/README.md)**
 
