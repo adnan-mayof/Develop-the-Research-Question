@@ -572,6 +572,8 @@ She now understands that:
 
 She is ready for:
 
+### Next Step
+
 > **[→ Step 3 — Develop Search Terms From PICO/PICOS](https://github.com/adnan-mayof/Develop-Search-Terms-From-PICO-PICOS/blob/main/README.md)**
 
 ### Previous Step
