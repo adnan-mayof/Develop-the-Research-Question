@@ -572,8 +572,10 @@ She now understands that:
 
 She is ready for:
 
-> **Step 3 — Develop Search Terms From PICO/PICOS**
+> **[Step 3 — Develop Search Terms From PICO/PICOS](https://github.com/adnan-mayof/Develop-Search-Terms-From-PICO-PICOS/blob/main/README.md)**
 
----
+### Previous Step
 
-[← Previous Step: Identify a Research Gap](../step-1-identify-a-research-gap/) | [Next Step: Develop Search Terms →](../step-3-develop-search-terms/)
+**[Step 1 — Develop Search Terms From PICO/PICOS](https://github.com/adnan-mayof/Develop-Search-Terms-From-PICO-PICOS/blob/main/README.md)**
+
+ 
