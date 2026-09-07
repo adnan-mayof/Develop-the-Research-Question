@@ -576,7 +576,5 @@ She is ready for:
 
 > **[→ Step 3 — Develop Search Terms From PICO/PICOS](https://github.com/adnan-mayof/Develop-Search-Terms-From-PICO-PICOS/blob/main/README.md)**
 
-### Previous Step
-
-> **[← Step 1 —  Identify a Research Gap](https://github.com/adnan-mayof/Identify-a-Research-Gap/blob/main/README.md)**
+ 
 
